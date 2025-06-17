@@ -1,7 +1,6 @@
 ## Hello Everyone, My Name is Deepak Kumar👋
 
-# 💫 About Me:
-I'm Currently Working on Full Stack Development<br>
+# 💫 About Me:-
 💻 I'm a Web Developer passionate about building full-stack applications with React, Node.js, and MySQL.
 
 
