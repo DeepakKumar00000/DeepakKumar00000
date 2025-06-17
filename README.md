@@ -13,7 +13,10 @@
 # 🔧 Some Projects :
 
 - 🎓 [EduNexus - Learning Management System](https://edu-nexus-cyan.vercel.app ) - A full-stack LMS platform built for managing online courses, tracking student progress, and enabling instructor-student interaction. Features include user authentication, course enrollment, progress tracking, and responsive UI. Built using React.js, Node.js, Express, and MongoDB Atlas.
-- 📊 [Admin Dashboard](https://github.com/username/admin-dashboard) - Responsive dashboard with authentication
+- 🎮 [Trickso - Gaming Portal](https://trickso-gaming-portal.vercel.app/) - A dynamic platform for casual, tournament, and challenge-based games.
+Includes user login, game categories, points leaderboard, and responsive design.
+- 😂 [Daria Tube – Comedy Video Streaming Website](https://daria-tube.vercel.app/ ) - A fun and engaging platform to watch, browse, and enjoy comedy videos.
+Includes features like video categorization, responsive design, and user-friendly navigation.
 
 ---
 
