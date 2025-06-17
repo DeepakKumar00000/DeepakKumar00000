@@ -14,6 +14,10 @@
 (https://github-readme-stats.vercel.app/api?username=Deepak <br/>
 (https://nirzak-streak-stats.vercel.app/?user=Deepak <br/>
 (https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak 
+## 📊 GitHub Stats
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 ---
 
