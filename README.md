@@ -15,6 +15,4 @@ I'm Currently Working on Full Stack Development<br>I'm Currently Learning React.
 (https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deepak Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
